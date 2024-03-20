@@ -26,7 +26,7 @@
 | ```git flow```  |   |
 
 
-자세한 내용은 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/main/gradle/libs.versions.toml) 를 참고해 주세요.
+자세한 내용은 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
 
 ## 팀원
 
