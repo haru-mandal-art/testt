@@ -26,8 +26,8 @@
 | Supabase | *```2.1.4```* |
 | Logger | *```2.2.0```* |
 
-
-자세한 내용은 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
+> [!NOTE]
+> 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml)를 참고해 주세요.
 
 ## 팀원
 
