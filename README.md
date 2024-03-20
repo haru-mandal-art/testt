@@ -12,19 +12,29 @@
 | ```Kotlin``` | *```1.7.10```* | 
 | ```Min SDK``` | *```26```* | 
 | ```Target SDK```| *```32```* | 
-| ```MVVM``` |  |
-| ```Clean Architecture```  |   |
-| ```Coroutines``` | *```1.6.4```* |
-| ```Dagger-Hilt``` | *```2.43.2```* |
-| ```Data Binding``` | *```3.5```* |
-| ```Navigation``` | *```2.5.1```* |
-| ```Drawerlayout``` | *```1.1.1```* | 
-| ```Room``` | *```2.4.3```* |
-| ```BillingClient``` | *```5.0```* |
-| ```Lottie``` | *```5.2.0```* | 
-| ```Ballon``` | *```1.4.7```* |
-| ```git flow```  |   |
 
+
+### Libraries
+| Name | Version |
+| --- | --- |
+| ```Coroutines``` | *```1.7.3```* |
+| ```Dagger-Hilt``` | *```2.48.1```* |
+| ```Room``` | *```2.6.1```* |
+| ```DataStore``` | *```1.0.0```* |
+| ```Serialization``` | *```1.6.0```* |
+| ```Supabase``` | *```2.1.4```* |
+| ```Logger``` | *```2.2.0```* |
+
+
+| Name | Version |
+| --- | --- |
+| Coroutines | *```1.7.3```* |
+| Dagger-Hilt | *```2.48.1```* |
+| Room | *```2.6.1```* |
+| DataStore  | *```1.0.0```* |
+| Serialization| *```1.6.0```* |
+| Supabase | *```2.1.4```* |
+| Logger | *```2.2.0```* |
 
 자세한 내용은 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
 
