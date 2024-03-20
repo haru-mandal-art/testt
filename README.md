@@ -10,4 +10,4 @@
 |                                        Android                                         |                                              Android                                               |
 |:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 | [<img src="https://github.com/coldDelight.png" width="150px"/>](https://github.com/coldDelight) | [<img src="https://github.com/2blue-99.png" width="150px"/>](https://github.com/2blue-99) | 
-|                                         김찬희                                          |                                                이푸름                                                 | 
+| <a href="https://github.com/coldDelight">김찬희                                          |     <a href="https://github.com/2blue-99">  이푸름                                                 | 
