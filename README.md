@@ -10,9 +10,9 @@
 | Name | Version |
 | --- | --- |
 | IDE |   *```Android Studio Hedgehog```* | 
+| Kotlin |   *```1.9.10```* | 
 | MinSdk  |   *```26```* | 
 | TargetSdk  |   *```34```* | 
-| Kotlin |   *```1.9.10```* | 
 
 
 ### Libraries
@@ -27,7 +27,7 @@
 | Logger | *```2.2.0```* |
 
 > [!NOTE]
-> 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml)를 참고해 주세요.
+> 사용한 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml)를 참고해 주세요.
 
 ## 팀원
 
