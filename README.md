@@ -5,27 +5,17 @@
 <a href="https://strong-marlin-f95.notion.site/SRS-3098c52bd8da4fc6aa41f6cba6b2f47f?pvs=4"><img src="https://github.com/haru-mandal-art/testt/assets/94586184/97b44864-934c-4f58-939e-e431afc54c90" height="70"></a>
 
 
-## Skill
+## Development
+### Required
 | Name | Version |
 | --- | --- |
-| ```Android``` |  | 
-| ```Kotlin``` | *```1.7.10```* | 
-| ```Min SDK``` | *```26```* | 
-| ```Target SDK```| *```32```* | 
+| IDE |   *```Android Studio Hedgehog```* | 
+| MinSdk  |   *```26```* | 
+| TargetSdk  |   *```34```* | 
+| Kotlin |   *```1.9.10```* | 
 
 
 ### Libraries
-| Name | Version |
-| --- | --- |
-| ```Coroutines``` | *```1.7.3```* |
-| ```Dagger-Hilt``` | *```2.48.1```* |
-| ```Room``` | *```2.6.1```* |
-| ```DataStore``` | *```1.0.0```* |
-| ```Serialization``` | *```1.6.0```* |
-| ```Supabase``` | *```2.1.4```* |
-| ```Logger``` | *```2.2.0```* |
-
-
 | Name | Version |
 | --- | --- |
 | Coroutines | *```1.7.3```* |
@@ -35,6 +25,7 @@
 | Serialization| *```1.6.0```* |
 | Supabase | *```2.1.4```* |
 | Logger | *```2.2.0```* |
+
 
 자세한 내용은 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
 
