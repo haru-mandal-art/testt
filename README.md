@@ -27,7 +27,7 @@
 | Logger | *```2.2.0```* |
 
 > [!NOTE]
-> 사용한 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml)를 참고해 주세요.
+> 사용한 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
 
 ## Team
 
