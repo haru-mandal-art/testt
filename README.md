@@ -55,7 +55,34 @@ classDef feature  stroke:#FF8A65
 linkStyle 0,1 stroke:#00E489,stroke-width:2px;
 linkStyle 2,3,4,5 stroke:#FF8A65,stroke-width:2px;
 ```
+## Architecture
+```mermaid
+graph TB
+Screen:::UI
+ViewModel:::UI
+UseCase:::Domain
+Repository:::Data
 
+Database:::Data
+DataStore:::Data
+Network:::Data
+
+Network --> Supabase
+
+    Repository --> Database
+    Repository --> DataStore
+    Repository --> Network
+    Repository --> Workmanager
+
+    UseCase --> Repository
+    ViewModel --> UseCase
+    Screen --> ViewModel
+
+classDef UI stroke-width:2px,stroke:#00E489
+classDef Domain stroke-width:2px,stroke:#1A73E8
+classDef Data stroke-width:2px,stroke:#083042
+
+```
 
 ## Development
 ### Required
