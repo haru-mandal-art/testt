@@ -5,6 +5,22 @@
 <a href="https://strong-marlin-f95.notion.site/SRS-3098c52bd8da4fc6aa41f6cba6b2f47f?pvs=4"><img src="https://github.com/haru-mandal-art/testt/assets/94586184/97b44864-934c-4f58-939e-e431afc54c90" height="70"></a>
 
 
+
+## 하루 만다라트
+> 💡 **만다라트와 투두의 만남으로 가지고있는 꿈과 목표를 구체화하고 달성하세요.**
+
+
+
+<br>
+
+### ScreenShot
+<img src="https://github.com/haru-mandal-art/testt/assets/94586184/0f9e1026-6f75-4e7b-be8a-bfd5e9631e5a" height="360">| <img src="https://github.com/haru-mandal-art/testt/assets/94586184/79887c39-2f08-4c9d-9537-b47b550e336a" height="360">| <img src="https://github.com/haru-mandal-art/testt/assets/94586184/3094ecdf-4b84-49f1-b806-70ef9bf71cc2" height="360"> | <img src="https://github.com/haru-mandal-art/testt/assets/94586184/3094ecdf-4b84-49f1-b806-70ef9bf71cc2" height="360">|
+|-|-|-|-|
+| <img src="https://github.com/haru-mandal-art/testt/assets/94586184/e5ae765e-0ed9-4ba2-b407-ecaf175ca730" height="360"> | <img src="https://github.com/haru-mandal-art/testt/assets/94586184/c8219c8f-dc41-4bfc-b61c-0e06ea77809b" height="360"> |<img src="https://github.com/haru-mandal-art/testt/assets/94586184/f1d84d56-25b6-4ec1-97f1-a11ffa427784" height="360"> |<img src="https://github.com/haru-mandal-art/testt/assets/94586184/336a6ed5-bd3f-4878-b500-7376015e3c694" height="360">| 
+
+
+
+
 ## Development
 ### Required
 | Name | Version |
@@ -25,6 +41,7 @@
 | Serialization| *```1.6.0```* |
 | Supabase | *```2.1.4```* |
 | Logger | *```2.2.0```* |
+
 
 > [!NOTE]
 > 사용한 라이브러리 세부정보는 [libs.versions.toml](https://github.com/haru-mandal-art/haru-mandalart/blob/dev/gradle/libs.versions.toml) 를 참고해 주세요.
